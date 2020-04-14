@@ -1,0 +1,13 @@
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.csproj.CoreCompileInputs.cache
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.AssemblyInfoInputs.cache
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.AssemblyInfo.cs
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\bin\Debug\netcoreapp3.1\AsyncAwait8.exe
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\bin\Debug\netcoreapp3.1\AsyncAwait8.deps.json
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\bin\Debug\netcoreapp3.1\AsyncAwait8.runtimeconfig.json
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\bin\Debug\netcoreapp3.1\AsyncAwait8.runtimeconfig.dev.json
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\bin\Debug\netcoreapp3.1\AsyncAwait8.dll
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\bin\Debug\netcoreapp3.1\AsyncAwait8.pdb
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.dll
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.pdb
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.genruntimeconfig.cache
+D:\WKQDemoWork\后端\异步Demo\AsyncAwait\AsyncAwait8\obj\Debug\netcoreapp3.1\AsyncAwait8.csprojAssemblyReference.cache

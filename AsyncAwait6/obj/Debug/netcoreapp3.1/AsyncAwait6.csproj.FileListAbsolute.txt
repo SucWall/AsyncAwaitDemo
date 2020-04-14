@@ -1,0 +1,12 @@
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\bin\Debug\netcoreapp3.1\AsyncAwait6.exe
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\bin\Debug\netcoreapp3.1\AsyncAwait6.deps.json
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\bin\Debug\netcoreapp3.1\AsyncAwait6.runtimeconfig.json
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\bin\Debug\netcoreapp3.1\AsyncAwait6.runtimeconfig.dev.json
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\bin\Debug\netcoreapp3.1\AsyncAwait6.dll
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\bin\Debug\netcoreapp3.1\AsyncAwait6.pdb
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\obj\Debug\netcoreapp3.1\AsyncAwait6.csproj.CoreCompileInputs.cache
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\obj\Debug\netcoreapp3.1\AsyncAwait6.AssemblyInfoInputs.cache
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\obj\Debug\netcoreapp3.1\AsyncAwait6.AssemblyInfo.cs
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\obj\Debug\netcoreapp3.1\AsyncAwait6.dll
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\obj\Debug\netcoreapp3.1\AsyncAwait6.pdb
+D:\WKQDemoWork\异步Demo\AsyncAwait\AsyncAwait6\obj\Debug\netcoreapp3.1\AsyncAwait6.genruntimeconfig.cache

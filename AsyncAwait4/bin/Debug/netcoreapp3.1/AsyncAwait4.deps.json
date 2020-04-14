@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsyncAwait4/1.0.0": {
+        "runtime": {
+          "AsyncAwait4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncAwait4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
